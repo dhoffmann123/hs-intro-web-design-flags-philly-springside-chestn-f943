@@ -85,7 +85,7 @@ h3 {
 
 #y9 {
   background-color: red;
-  margin-bottom 110px;
+  Margin-bottom: 110px;
 }
 
 
@@ -93,16 +93,79 @@ h3 {
   background-color: black;
 }
 /* The Gambia */
-
+#gambia div {
+  height: 110px;
+  width: 800px;
+}
+#g6 {
+background-color: red;
+}
+#g7 {
+background-color: blue;
+  Margin-bottom: 15px;
+  Margin-top: 15px;
+}
+#g8 {
+background-color: green;
+}
 /* Yemen */
 
 /* The Gambia */
 
 /* Chad */
+#chad div {
+  height: 110px;
+  width: 800px;
+}
+#c6 {
+background-color: blue;
+}
+#c7 {
+background-color: yellow;
+
+}
+#c8 {
+background-color: red;
+}
 
 /* France */
+#france div {
+  height: 300px;
+  width: 266px;
+}
+#f6 {
+background-color: blue;
+margin-right: 266px;
+  float: left;
+}
+
+#f8 {
+background-color: red;
+  float: right;
+}
 
 /* Benin */
+#benin div {
+}
+#b6 {
+background-color: green;
+  float: left;
+  height: 300px;
+  width: 266px;
+}
+
+#b7 {
+background-color: yellow;
+  height: 150px;
+  width: 800px;
+  }
+
+
+#b8 {
+background-color: red;
+  height: 150px;
+  width: 800px;
+  }
 
 
 
